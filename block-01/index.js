@@ -2,7 +2,7 @@
 
 function sum(a, b) {
   // return a + b;
-  return;
+  return a;
 }
 
 module.exports = sum;
